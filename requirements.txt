@@ -1,0 +1,5 @@
+torch>=2.13
+torchvision>=0.18
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
